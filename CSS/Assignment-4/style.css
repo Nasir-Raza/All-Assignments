@@ -1,0 +1,322 @@
+body{
+
+    padding: 10px;
+    /* margin: 10px; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+width: 1400px;
+height:75px;
+color: white;
+background-color: black
+}
+
+.com{
+    padding-left: 10px;
+}
+
+.commodities{
+padding-left: 10px;
+border: 1px solid blue;
+width: 900px;
+height:550px;
+display: inline-block;
+
+}
+
+.markets{
+border: 1px solid green;
+width: 450px;
+height:560px;
+display: inline-block;
+}
+
+img{
+    /* padding: 0px;
+    margin: 0px; */
+    width: 310px;
+    height: inherit;
+}
+
+td#one{
+    width: 310px;
+    /* margin-top: 0px;
+    padding-top: 0px;
+    padding-left: 0px; */
+    border-right: 1px solid lightgray;
+}
+
+td#two{
+    width: 100px;
+    padding: 5px;
+    border-right: 1px solid lightgray;
+}
+
+td#three{
+    width: 140px;
+    padding: 5px;
+    border-right: 1px solid lightgray;
+}
+
+td#four{
+    width: 160px;
+    padding: 5px;
+    border-right: 1px solid lightgray;
+}
+
+td#five{
+    width: 200px;
+    padding: 5px;
+    border-right: 1px solid lightgray;
+}
+
+td.c11{
+    line-height: 30px;
+    width: 650px;
+    color:cornflowerblue;
+    background-color:lightcyan;
+    padding-right: 10px;
+}
+
+td.c12{
+    width: 130px;
+    background-color:lightcyan;
+    padding-right: 10px;
+}
+
+td.c13{
+    text-align: right;
+    width: 90px;
+    background-color:lightcyan;
+    padding-right: 10px;
+}
+
+td.c14{
+    text-align: right;
+    width: 90px;
+    background-color:lightcyan;
+    padding-right: 10px;
+}
+
+td.c15{
+    text-align: right;
+    width: 130px;
+    background-color:lightcyan;
+    padding-right: 10px;    
+}
+
+td.c16{
+    text-align: right;
+    width: 350px;
+    background-color:lightcyan;
+    padding-right: 10px;
+}
+
+td.c21{
+    line-height: 25px;
+    width: 650px;
+    color:cornflowerblue;
+    padding-right: 10px;
+    
+}
+
+td.c22{
+    width: 130px;
+    padding-right: 10px;
+}
+
+td.c23{
+    text-align: right;
+    width: 90px;
+    padding-right: 10px;
+    
+}
+
+td.c24{
+    text-align: right;
+    width: 90px;
+    padding-right: 10px;
+    
+}
+
+td.c25{
+    text-align: right;
+    width: 130px;
+    padding-right: 10px;
+    
+}
+
+td.c26{
+    text-align: right;
+    width: 350px;
+    padding-right: 10px;
+    
+}
+
+
+th.comcur{
+    text-align:left;  
+}
+
+th{
+  text-align:right;
+  padding-right: 10px;
+}
+
+h1{
+    display:inline;
+}
+
+td#com11{
+   padding-top: 30px;
+    padding-right: 1150px; 
+    border-bottom: 1px solid black;
+
+}
+td#com21{
+    font-weight: bold;
+    color: darkgray;
+}
+tr#com2{
+    font-weight: bold;
+    color:cornflowerblue;
+}
+
+td#com21{
+    width: 130px;
+ }
+
+ td#com22{
+    width: 100px;
+ }
+
+td#com23{
+    width: 110px;
+}
+
+td#com24{
+    width: 110px;
+}
+
+td#com25{
+    width: 170px;
+}
+
+td#com26{
+    width: 150px;
+}
+
+.cap{
+    height: 20px;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: bold;
+}
+
+.cap1{
+    height: 30px;
+    background-color:cornflowerblue;
+    padding-top: 15px;
+    color: white;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: bold;
+}
+
+tr.er{
+    height: 7px;
+}
+
+td.comfut11{
+width: 850px;
+height: 30px;
+    border-bottom: 1px solid black;
+    color:cornflowerblue;
+}
+
+span{
+    color:black;
+    font-weight: bold;
+}
+
+td.crbind11{
+    height: 40px;
+    text-align: center;
+    width:200px;
+    border-right: 1px solid black;
+}
+
+td.crbind12{
+    text-align: center;
+    width:100px;
+    border-right: 1px solid black;
+}
+
+td.crbind13{
+    text-align: center;
+    width:130px;
+    border-right: 1px solid black;
+}
+
+td.crbind14{
+    text-align: center;
+    width:130px;
+    border-right: 1px solid black;
+}
+td.crbind15{
+    text-align: center;
+    width:100px;
+    border-right: 1px solid black;
+}
+td.crbind16{
+    text-align: center;
+    width:200px;
+}
+
+td.mar11{
+    height: 30px;
+    padding-left: 10px;
+    color: cornflowerblue;
+    font-weight: bold;
+    background-color: lightcyan;
+    border: 1px solid red; 
+    width: 190px;
+}
+
+td.mar12{
+    border: 1px solid red; 
+    width: 1000px;
+}
+
+td.mar13{
+    border: 1px solid red; 
+    width: 1000px;
+}
+
+td.mar14{
+    border: 1px solid red; 
+    width: 1000px;
+}
+
+.btntrf{
+    width:220px;
+    font-size: larger;
+}
+
+.btnsrch{
+    width:100px;
+    font-size: larger;
+}
+
+input{
+    width:70%;
+    border: none;
+}
+
+.srch{
+    height: 50px;
+    border: 1px solid black;
+}
